@@ -19,7 +19,10 @@ A needle and some thread
 
 It is recommended that you AVOID the unshielded steel/conductive threads available on Adafruit for this project, and remove as little of the conductive thread's fabric as possible to minimize crossed wires/shorts (Ouch!)
 
-Pictures are enclosed of how the sewing works, The parts are centered when worn though they look off in the photo. Your intimates may differ, place the components with a mannueqin or someone wearing them.
-
 For the Pro Mini: LED Pin is 7, Accelerometer is A4 (SDA) and A5 (SCL).
 For the Gemma: LED Pin is 1, Accelerometer is 0 (SDA) and 1 (SCL).
+
+# SHOW ME HOW TO SEW. I COMMAND IT!
+Pictures are enclosed of how the sewing works, The parts are centered when worn though they look off in the photo. Your intimates may differ, place the components with a mannueqin or someone wearing them.
+
+![alt tag](https://github.com/Zohan/buttlasers/blob/master/ButtLasers_Images/Arduino.Pro.Mini.jpg)
